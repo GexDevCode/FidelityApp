@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:layout_centerVertical="true"
+    android:layout_gravity="center">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="false"
+        android:layout_centerHorizontal="true"
+        android:background="#49BEAA"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="172dp"
+            android:layout_height="173dp"
+            android:layout_gravity="center"
+            android:maxWidth="100dp"
+            android:maxHeight="50px"
+            android:minWidth="50dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/fidality_logo"></ImageView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </FrameLayout>
+</RelativeLayout>
