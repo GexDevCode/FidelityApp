@@ -175,7 +175,7 @@ function App(): React.JSX.Element {
       <ModalErrorProvider>
       <StripeProvider 
         publishableKey="pk_test_51P12ee07UUu9VDOgsWsuYnfRnmOVTOAiPu6re7abmyBzZJA9NyFJf1q2fQBL6wRQTIkRPuaJw8CqwyRoTlZKMbmY00qfUexk89"
-        merchantIdentifier="merchant.com.rewardapp"
+        merchantIdentifier="merchant.com.fidelityapp"
       >
           <ToastProvider 
           placement='top'

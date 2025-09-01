@@ -1,4 +1,4 @@
-package com.rewardapp
+package com.fidelityapp
 
 import android.app.Application
 import com.facebook.react.PackageList

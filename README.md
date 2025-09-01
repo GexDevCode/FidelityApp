@@ -1,1 +1,1 @@
-# RewardApp
+# FidelityApp

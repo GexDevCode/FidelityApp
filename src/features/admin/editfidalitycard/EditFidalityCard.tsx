@@ -59,7 +59,7 @@ export function EditFidalityCardPage({ navigation }: any): ReactElement {
         
         setStoreRewardCard({
             id: '100',
-            imageUrl: photo ? photo.assets[0].uri : 'https://rewardapp.s3.eu-north-1.amazonaws.com/flogo_colored.png',
+            imageUrl: photo ? photo.assets[0].uri : 'https://fidelityapp.s3.eu-north-1.amazonaws.com/flogo_colored.png',
             storeName: values.storeName || '<Nome>',
             branch: [{ location: values.location || '<Indirizzo>'}],
             colorReward: Colors.PRIMARY,

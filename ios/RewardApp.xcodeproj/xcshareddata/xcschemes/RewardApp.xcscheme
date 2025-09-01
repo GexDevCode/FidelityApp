@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "RewardApp.app"
-               BlueprintName = "RewardApp"
-               ReferencedContainer = "container:RewardApp.xcodeproj">
+               BuildableName = "FidelityApp.app"
+               BlueprintName = "FidelityApp"
+               ReferencedContainer = "container:FidelityApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "RewardAppTests.xctest"
-               BlueprintName = "RewardAppTests"
-               ReferencedContainer = "container:RewardApp.xcodeproj">
+               BuildableName = "FidelityAppTests.xctest"
+               BlueprintName = "FidelityAppTests"
+               ReferencedContainer = "container:FidelityApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RewardApp.app"
-            BlueprintName = "RewardApp"
-            ReferencedContainer = "container:RewardApp.xcodeproj">
+            BuildableName = "FidelityApp.app"
+            BlueprintName = "FidelityApp"
+            ReferencedContainer = "container:FidelityApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RewardApp.app"
-            BlueprintName = "RewardApp"
-            ReferencedContainer = "container:RewardApp.xcodeproj">
+            BuildableName = "FidelityApp.app"
+            BlueprintName = "FidelityApp"
+            ReferencedContainer = "container:FidelityApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
