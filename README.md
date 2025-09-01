@@ -35,7 +35,7 @@ Payment: Stripe API
 Deployment: App Store
 
 📦 Installation & Setup
-git clone https://github.com/rewardDevs/FidelityApp.git
+git clone https://github.com/FidelityApp.git
 cd FidelityApp
 npm install
 npm start
