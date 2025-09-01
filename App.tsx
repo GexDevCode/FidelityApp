@@ -146,9 +146,6 @@ function App(): React.JSX.Element {
 
   const initialRouteName = !auth ? "Welcome" : auth.authType === "USER" ? "Home" : "Analytics";
 
-  console.log("START SCREEN", initialRouteName);
-  console.log("AUTH", auth);
-
   let showInitNavigator = <></>
   if(!auth) {
     showInitNavigator =
@@ -169,7 +166,6 @@ function App(): React.JSX.Element {
     
   }, headerTitleStyle: { color: Colors.white }, headerTitleAlign: "center", headerTintColor: Colors.white }
 
-  console.log(process.env);
   return (
     <ErrorBoundary onError={errorHandler}>
       <ModalErrorProvider>
