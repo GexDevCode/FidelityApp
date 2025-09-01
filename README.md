@@ -1,3 +1,3 @@
 # Fidelity App
 
-.src/assets/logo/flogo_colored.png
+(.src/assets/logo/flogo_colored.png)
